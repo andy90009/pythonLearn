@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e24240b5-4bb7-4d4f-acc1-faff8a85688a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/methods.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/methods.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,14 +12,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/lesson01$test.coverage" NAME="test Coverage Results" MODIFIED="1540133796817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/lesson01$methods.coverage" NAME="methods Coverage Results" MODIFIED="1540134331480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lesson01$test.coverage" NAME="test Coverage Results" MODIFIED="1540136209130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/lesson01$methods.coverage" NAME="methods Coverage Results" MODIFIED="1540136962986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-743687465">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.6" value="2" />
@@ -30,42 +28,51 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="13" />
+          <entry key="py" value="14" />
           <entry key="pyi" value="5" />
           <entry key="pylearn" value="2" />
           <entry key="text" value="2" />
-          <entry key="txt" value="4" />
+          <entry key="txt" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="8" />
-          <entry key="Python" value="13" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="Python" value="14" />
           <entry key="PythonStub" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="5978" />
+          <entry key="py" value="6571" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="5978" />
+          <entry key="Python" value="6571" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1468">
+              <caret line="258" lean-forward="true" selection-start-line="258" selection-end-line="258" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/methods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="501">
+              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
               <folding>
-                <marker date="1540134395887" expanded="true" signature="42:47" ph="..." />
-                <marker date="1540134395887" expanded="true" signature="163:202" ph="..." />
+                <marker date="1540137574607" expanded="true" signature="41:46" ph="..." />
+                <marker date="1540137574607" expanded="true" signature="786:857" ph="..." />
               </folding>
             </state>
           </provider>
@@ -244,7 +251,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32868218" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32842416" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32842416" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -272,25 +279,11 @@
     <entry file="file://$PROJECT_DIR$/pylearn" />
     <entry file="file://$PROJECT_DIR$/venv/pylearn" />
     <entry file="file://$PROJECT_DIR$/pylearn.text" />
-    <entry file="file://$PROJECT_DIR$/pylearn.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/string.py" />
     <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.2/python_stubs/1528743095/__builtin__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="2547" column="8" selection-start-line="2547" selection-start-column="8" selection-end-line="2547" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="258" lean-forward="true" selection-start-line="258" selection-end-line="258" />
         </state>
       </provider>
     </entry>
@@ -301,13 +294,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/pylearn.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1468">
+          <caret line="258" lean-forward="true" selection-start-line="258" selection-end-line="258" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/methods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="501">
+          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
           <folding>
-            <marker date="1540134395887" expanded="true" signature="42:47" ph="..." />
-            <marker date="1540134395887" expanded="true" signature="163:202" ph="..." />
+            <marker date="1540137574607" expanded="true" signature="41:46" ph="..." />
+            <marker date="1540137574607" expanded="true" signature="786:857" ph="..." />
           </folding>
         </state>
       </provider>
