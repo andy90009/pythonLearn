@@ -85,3 +85,21 @@ print (str2int('167') == 167)
 # 利用map()函数，把用户输入的不规范的英文名字，变为首字母大写，其他小写的规范名字。
 # 输入：['adam', 'LISA', 'barT']，输出：['Adam', 'Lisa', 'Bart']
 
+
+def normalize(name):
+    return name.lower().title()
+print (list(map(normalize, ['adam', 'LISA', 'barT'])))
+
+def normalize2(name):
+    return name[0].upper() + name[1:].lower()
+print (list(map(normalize2, ['adam', 'LISA', 'barT'])))
+
+def normalize3(name):
+    str1 = ''
+    for i, ch in enumerate(name):
+        if i == 0:
+            str1 = str1 + ch.upper()
+        else:
+            str1 = str1 + ch.lower()
+    return str1
+print (list(map(normalize3,['adam', 'LISA', 'barT'])))
