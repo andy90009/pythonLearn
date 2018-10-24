@@ -72,3 +72,6 @@ def my_now2():
 my_now2()
 
 print (my_now2.__name__)
+
+a = (1, 2, 3)
+print (a*3)
